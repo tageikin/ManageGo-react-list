@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 15rem;
+  padding: 0.5rem;
+}
+.item > span {
+  margin-right: auto;
+}
